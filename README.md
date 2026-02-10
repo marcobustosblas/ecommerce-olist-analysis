@@ -1,5 +1,5 @@
 # Olist E-commerce Logistics Analysis 📝
-### *Optimizando la cada de suminstros en Brasil con Data Science*
+### *Optimizando la cadena de suminstros en Brasil con Data Science*
 
 Este proyecto analiza más de **100,000 órdenes** reales del marketplace Olist para identificar cuellos de botella logísticos, y entender por qué ciertos pedidos sufren retrasos extremos.
 El foco principal está en los **Outliers Críticos**, pedidos que tardaron más de 20 días adicionales en ser entregados.
